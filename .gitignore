@@ -1,0 +1,8 @@
+.vscode
+CMakeFiles
+*.cmake
+.ninja*
+CMakeCache.txt
+*.ninja
+compile_commands.json
+keither
